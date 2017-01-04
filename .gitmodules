@@ -1,1 +1,4 @@
 [submodule "Vendor"]
+[submodule "Vendor/HockeySDK"]
+	path = Vendor/HockeySDK
+	url = git://github.com/bitstadium/HockeySDK-iOS.git
