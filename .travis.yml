@@ -1,4 +1,5 @@
 language: objective-c
 xcode_project: HockeyApp-iOSDemo-Swift.xcodeproj
 xcode_scheme: HockeyApp-iOSDemo-Swift
-xcode_sdk: iphonesimulator ONLY_ACTIVE_ARCH=NO
+xcode_sdk: iphonesimulator
+xcode_configuration: AdHoc
