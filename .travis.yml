@@ -1,5 +1,3 @@
 language: objective-c
 xcode_project: HockeyApp-iOSDemo-Swift.xcodeproj
-xcode_scheme:
-    - HockeyApp-iOSDemo-Swift
-    - HockeyApp-iOSDemo-Swift Framework
+xcode_scheme: [HockeyApp-iOSDemo-Swift, HockeyApp-iOSDemo-Swift Framework]
