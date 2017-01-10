@@ -1,3 +1,4 @@
 language: objective-c
 xcode_project: HockeyApp-iOSDemo-Swift.xcodeproj
 xcode_scheme: HockeyApp-iOSDemo-Swift
+xcode_sdk: iphonesimulator10.1
