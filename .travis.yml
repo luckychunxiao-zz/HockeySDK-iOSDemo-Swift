@@ -1,3 +1,2 @@
 language: objective-c
-script:
-  - xctool -project HockeyApp-iOSDemo-Swift.xcodeproj -scheme HockeyApp-iOSDemo-Swift -sdk iphonesimulator -configuration AdHoc
+script: xctool -project HockeyApp-iOSDemo-Swift.xcodeproj -scheme HockeyApp-iOSDemo-Swift -sdk iphonesimulator -configuration AdHoc
