@@ -14,6 +14,7 @@ class BITAuthenticatorDemoViewController: UITableViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         self.restrictAppUsageSwitch.setOn(true, animated: false)
+        print("One two three four five")
     }
     
     //MARK: - Private
