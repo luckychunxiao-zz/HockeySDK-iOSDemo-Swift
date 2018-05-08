@@ -3,7 +3,7 @@
 //  HockeySDK-iOSDemo-Swift
 //
 //  Created by Kevin Li on 18/10/2016.
-//
+//  Test
 
 import UIKit
 
@@ -35,6 +35,8 @@ class BITAppDelegate: UIResponder, UIApplicationDelegate,BITHockeyManagerDelegat
         } else {
             setupApplication()
         }
+        
+        print("One two three four five")
         
         return true
     }
