@@ -36,6 +36,8 @@ class BITAppDelegate: UIResponder, UIApplicationDelegate,BITHockeyManagerDelegat
             setupApplication()
         }
         
+        print("One two three four five")
+        
         return true
     }
     
