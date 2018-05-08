@@ -3,7 +3,7 @@
 //  HockeySDK-iOSDemo-Swift
 //
 //  Created by Kevin Li on 18/10/2016.
-//
+//  Test
 
 import UIKit
 
